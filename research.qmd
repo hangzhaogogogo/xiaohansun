@@ -4,17 +4,25 @@ title: "Research"
 
 ## Peer-reviewed Publications
 
-1. Heflin, C., & Sun, X. (2022). “Food Insecurity and the Opioid Crisis.” *The ANNALS of the American Academy of Political and Social Science*, 703(1), 262–284.
+1. **Zhao, H.**, & **Sun, X.** (2026). *OxyContin Reformulation and Drug-Related Arrest Rates, Property-Related Crimes, Child Maltreatment, and Food Pantry Participation.* **Frontiers in Pharmacology, 17**, 1681241.
 
-2. Andreyeva, T., Sun, X., Cannon, M., & Kenney, E. (2021). “The Child and Adult Care Food Program: Barriers to Participation and Costs of Underutilization.” *Journal of Nutrition Education and Behavior*, 54(4), 327–334.
+2. Rothbart, M. W., Heflin, C., Morrissey, T. W., & **Sun, X.** (2026). *Participation Across Public Programs Among Children in Low-Income Families: Public Preschool, Child Care Subsidies, and the Supplemental Nutrition Assistance Program.* **Early Childhood Research Quarterly, 76**, 13–28.
 
-3. Andreyeva, T., Sun, X. (2021). “Universal School Meals in the US: What Can We Learn from the Community Eligibility Provision?” *Nutrients*, 13, 2634.
+3. **Sun, X.**, & Zhao, H. (2025). *The Impact of Anti-Bullying Laws on Children's Social-Behavioral Skills.* **Frontiers in Psychology, 16**, 1550736.
 
-4. Andreyeva, T., Sun, X., Cannon, M., & Kenney, E. L. (2021). “Implementation of Minimum Nutrition Standards and Best Practices in Childcare Centers.” *Journal of the Academy of Nutrition and Dietetics*, 121(12), 2454–2463.
+4. Zhao, H., Andreyeva, T., & **Sun, X.** (2024). *Food Security and Health Outcomes Following Gray Divorce.* **Nutrients, 16**(5), 633.
 
-5. Sun, X., & Andreyeva, T. (2020). “Kindergarten Entry Age and Household Food Insecurity.” *Journal of Health Behavior and Policy Review*, 7(5), 416–431.
+5. Heflin, C., & **Sun, X.** (2022). *Food Insecurity and the Opioid Crisis.* **The ANNALS of the American Academy of Political and Social Science, 703**(1), 262–284.
 
-6. Andreyeva, T., Kenney, E. L., O’Connell, M., Sun, X., & Henderson, K. E. (2018). “Predictors of Nutrition Quality in Early Child Education Settings in Connecticut.” *Journal of Nutrition Education and Behavior*, 50(5), 458–467.
+6. Andreyeva, T., **Sun, X.**, Cannon, M., & Kenney, E. (2021). *The Child and Adult Care Food Program: Barriers to Participation and Costs of Underutilization.* **Journal of Nutrition Education and Behavior, 54**(4), 327–334.
+
+7. Andreyeva, T., & **Sun, X.** (2021). *Universal School Meals in the US: What Can We Learn from the Community Eligibility Provision?* **Nutrients, 13**(8), 2634.
+
+8. Andreyeva, T., **Sun, X.**, Cannon, M., & Kenney, E. L. (2021). *Implementation of Minimum Nutrition Standards and Best Practices in Childcare Centers.* **Journal of the Academy of Nutrition and Dietetics, 121**(12), 2454–2463.
+
+9. **Sun, X.**, & Andreyeva, T. (2020). *Kindergarten Entry Age and Household Food Insecurity.* **Journal of Health Behavior and Policy Review, 7**(5), 416–431.
+
+10. Andreyeva, T., Kenney, E. L., O'Connell, M., **Sun, X.**, & Henderson, K. E. (2018). *Predictors of Nutrition Quality in Early Child Education Settings in Connecticut.* **Journal of Nutrition Education and Behavior, 50**(5), 458–467.
 
 ## Research Reports
 
@@ -22,15 +30,9 @@ title: "Research"
 
 ## Papers Under Review or In Preparation
 
-1. **Sun, X.** “The Impact of Anti-Bullying Laws on School Safety and Children’s Behavioral Skills.”
+1. **Sun, X.** & Andreyeva, T. “The Impact of Universal Free Meals on Children’s Social Behavioral Skills and Peer Relationships.”
 
-2. **Sun, X.**, & Andreyeva, T. “The Impact of Universal Free Meals on School Bullying: A National Quasi-Experimental Evaluation.”
-
-3. **Sun, X.** “Obesity and Academic Performance among U.S. Children: Do Bullying Explain the Relation?”
-
-4. Rothbart, M., Heflin, C., **Sun, X.**, Morrissey, T. “Low Income Children’s Participation Across Public Programs: PreK, Child Care Subsidies, and the Supplemental Nutrition Assistance Program.”
-
-5. Rothbart, M., **Sun, X.**, Heflin, C., Morrissey, T. “The Impact of Public Prekindergarten Expansion on SNAP Participation: Evidence from the Virginia Preschool Initiative Plus Program.”
+2. Rothbart, M., **Sun, X.**, Heflin, C., Morrissey, T. “The Impact of Public Prekindergarten Expansion on SNAP Participation: Evidence from the Virginia Preschool Initiative Plus Program.”
 
 ## Research Grants Experience
 
@@ -45,6 +47,8 @@ title: "Research"
 5. World Health Organization. Price Impacts on Dietary and Health Outcomes: A Scoping Review. 04/05/2018–06/04/2018. Principal Investigator: Tatiana Andreyeva. $21,873. Role: Research Assistant.
 
 ## Conference Presentations
+
+- 2024 The 5th International Conference on Aging and Gerontology. “Food Security and Health Outcomes Following Gray Divorce”. Kunming, China.
 
 - 2022 Population Association of America Annual Meeting. “Low Income Children’s Participation Across Public Programs: Public Pre-K, Child Care Subsidies, and SNAP.” Atlanta, GA.
 
