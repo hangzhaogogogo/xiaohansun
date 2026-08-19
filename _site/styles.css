@@ -70,9 +70,9 @@ main.content {
 }
 
 .navbar-brand {
-  font-size: 1.22rem;
+  font-size: 1.1rem;
   font-weight: 700;
-  color: #222 !important;
+  color: #444 !important;
 }
 
 .navbar-nav .nav-link {
