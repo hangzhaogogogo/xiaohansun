@@ -1,0 +1,36 @@
+---
+title: ""
+page-layout: full
+---
+
+# Xiaohan Sun
+
+<p class="position-title">Assistant Professor</p>
+
+## Biography
+
+::: {.bio-container}
+
+::: {.bio-photo}
+![](images/xiaohan.jpg)
+:::
+
+::: {.bio-text}
+
+I am an Assistant Professor of Business and Economics at Allegheny College. My research focuses on child well-being, health policy, economics of education, and applied microeconomics. My work examines the impacts of public policies and social programs on health and educational outcomes using applied econometric methods.
+
+I received my Ph.D. in Agricultural and Resource Economics from the University of Connecticut in 2021, an M.A. in Economics from Boston University in 2015, and a B.A. in Economics from the University of Colorado Denver and China Agricultural University in 2014.
+
+<div class="quick-links">
+
+[Curriculum Vitae](cv.qmd)
+
+[Email](mailto:xsun@allegheny.edu)
+
+[Google Scholar](https://scholar.google.com/citations?user=lqpJBXwAAAAJ)
+
+</div>
+
+:::
+
+:::

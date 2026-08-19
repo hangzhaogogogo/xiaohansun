@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Xiaohan Sun"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: appointments.qmd
+        text: Appointments
+
+      - href: research.qmd
+        text: Research
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: cv.qmd
+        text: Curriculum Vitae
+
+      - href: contact.qmd
+        text: Contacts
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

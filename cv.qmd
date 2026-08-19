@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+---
+
+**Please find the latest version of my CV [here](docs/Xiaohan_Sun_CV.pdf){target="_blank"}.**
+
+<div class="cv-preview">
+
+<iframe
+  src="docs/Xiaohan_Sun_CV.pdf#page=1&view=FitH"
+  title="Xiaohan Sun Curriculum Vitae">
+</iframe>
+
+</div>

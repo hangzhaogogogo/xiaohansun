@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "final_project.html",
+    "href": "final_project.html",
+    "title": "FINAL PROJECT",
+    "section": "",
+    "text": "TODO: Click on the badge, then Copy to Drive before continuing\nTODO: delete this cell"
+  },
+  {
+    "objectID": "final_project.html#final-project-instructions",
+    "href": "final_project.html#final-project-instructions",
+    "title": "FINAL PROJECT",
+    "section": "Final Project Instructions",
+    "text": "Final Project Instructions\nThe CMPSC 105 Data Structures Final Presentations are May 1, at 7pm.\nIn this file, you will document your final project. Recall, that you have already created a proposal document and abstract which can be borrowed and brought into this document as needed.\nThe amount of work should be equivalent to 3-4 labs. Some extra time will be given to working on final projects during class in week 15."
+  },
+  {
+    "objectID": "final_project.html#goals",
+    "href": "final_project.html#goals",
+    "title": "FINAL PROJECT",
+    "section": "Goals",
+    "text": "Goals\nYour goals for this final project are:\n\ncreate a project report that documents your project and tells a story about data\nuse markdown and code cells to strategically place text and images for your story\nmake the story complete but also concise. This document will be what you present in a five-minute lightning talk during the final exam period\nshow at least three figures to tell your story.\n\nDon’t forget to answer all T O D O markers and to remove the markers."
+  },
+  {
+    "objectID": "final_project.html#hard-deadline",
+    "href": "final_project.html#hard-deadline",
+    "title": "FINAL PROJECT",
+    "section": "Hard Deadline",
+    "text": "Hard Deadline\n7:00pm, Thursday May 1, 2025"
+  },
+  {
+    "objectID": "final_project.html#learning-outcomes",
+    "href": "final_project.html#learning-outcomes",
+    "title": "FINAL PROJECT",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy completing this lab you will demonstrate your ability to\n\ndevelop a hypothesis and identity data to address the hypothesis\nuse python to compute summary statistics and visualize patterns\ndescribe key elements in your data visualizations\nuse a web-based platform to present your story, including visualizations, exploration steps, and conclusions"
+  },
+  {
+    "objectID": "final_project.html#reminders",
+    "href": "final_project.html#reminders",
+    "title": "FINAL PROJECT",
+    "section": "Reminders",
+    "text": "Reminders\n\nIf you have a question, post in the 105 Discord channel.\nRefer to previous materials to learn how to use Notebooks in Google Colab, make your work accessible, submit, and check your work."
+  },
+  {
+    "objectID": "final_project.html#saving-your-work",
+    "href": "final_project.html#saving-your-work",
+    "title": "FINAL PROJECT",
+    "section": "Saving Your Work",
+    "text": "Saving Your Work\nSaving your work and making it accessible is a required part of all labs.\n\nAccessability Part 1\nUpdate the Colab filename to be final_project.ipynb.\nMake sure that only story-relevant cells are SHOWING their outputs.\nAdd your data to your repository in the data directory. Ensure the CSV filename containing your data is final_project_data.csv and located in the data directory.\n\n\nSaving\nI would recommend a workflow of Copy to Drive --&gt; editing/running/testing --&gt; downloading. You should have already hit Copy to Drive, but if you haven’t, then please do so now. Then go ahead and download the file from the menu at the top of the Colab interface. File &gt; Download &gt; Download ipynb\n\n\nAccessibility Part 2\nIf you are satisfied with your work, you can now upload the downloaded file to your GitHub repo!\n\nUse GitHub to upload the file.\n\nNext to the green code button in GitHub, you will see an add file button. Click that, then choose the downloaded notebook from your computer."
+  },
+  {
+    "objectID": "final_project.html#checking-your-work",
+    "href": "final_project.html#checking-your-work",
+    "title": "FINAL PROJECT",
+    "section": "Checking Your Work",
+    "text": "Checking Your Work\n\nCheck your file output\nOnce your file is uploaded, please open it on GitHub. All the outputs and plots should be showing. If they are not showing, this means that not all code cells were executed before you downloaded your file.\n\n\n\nCheck Your Website\nPlease check how the website renders by going to the URL for your site. If something is rendering incorrectly, refer back with the starter repo and post questions on Discord.\n\n\n\nCheck GitHub Actions\nIn GitHub, go to the Actions tab. Click on the top Action to see a report about your T O D Os. If the T O D Os have been done and deleted, then the actions will show that gatorgrade reports 100%. This is not your grade, but it is a good indication that you did not forget to do something.\nIf you see remaining T O D Os, then you may want to edit and update your file.\n\n\n\nTODO: DELETE THIS CELL ENTIRELY TO MAKE A CLEAN REPORT\n\nthe starter repo which contains the original instructions can be found here: https://github.com/allegheny-college-cmpsc-105-spring-2025/final-project-starter/blob/main/final_project_starter.ipynb\nthe starter repo website which also contains the original instructions can be found here: https://allegheny-college-cmpsc-105-generic.github.io/final-project-starter/"
+  },
+  {
+    "objectID": "final_project.html#todo-write-your-title",
+    "href": "final_project.html#todo-write-your-title",
+    "title": "FINAL PROJECT",
+    "section": "TODO: Write Your Title",
+    "text": "TODO: Write Your Title\nTODO: double click and replace this text with your name"
+  },
+  {
+    "objectID": "final_project.html#abstract",
+    "href": "final_project.html#abstract",
+    "title": "FINAL PROJECT",
+    "section": "Abstract",
+    "text": "Abstract\n\nTODO: paste abstract"
+  },
+  {
+    "objectID": "final_project.html#hypothesis",
+    "href": "final_project.html#hypothesis",
+    "title": "FINAL PROJECT",
+    "section": "Hypothesis",
+    "text": "Hypothesis\n\nTODO: restate your hypothesis or question\nTODO: state any sub questions that the main question breaks into"
+  },
+  {
+    "objectID": "final_project.html#methods",
+    "href": "final_project.html#methods",
+    "title": "FINAL PROJECT",
+    "section": "Methods",
+    "text": "Methods\n\nData\n\nTODO: describe the data to address the hypothesis, and why it will help you answer your question\nTODO: describe how you got the data\n\n\n\nPreprocessing Steps\n\nTODO: describe any preprocessing and wrangling done to the entire dataset. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\n\n\n\nProcessing Steps\n\nTODO: describe major steps that you do to make sense of the data. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\nIdeally this will be a story with multiple steps, e.g. raw data inspection, then filtering, then averaging, then comparing\nOptional: Don’t forget about the possibility of doing correlation, linear regression, k-means clustering, or hypothesis testing\n\n\n\nPurpose\n\nTODO: Explain why doing the steps above will answer your question"
+  },
+  {
+    "objectID": "final_project.html#results-and-discussion",
+    "href": "final_project.html#results-and-discussion",
+    "title": "FINAL PROJECT",
+    "section": "Results and Discussion",
+    "text": "Results and Discussion\n\nTODO: visualize as many of the previously-mentioned steps as possible. Label everything. Break up this markdown cell as needed with code cells that generate plots. Use python to generate plots\nTODO: state the mean and standard deviation in text for each major step that you take. Use python to compute those statistics\nTODO: for each plot, either right before or right after, describe the plot without interpretation. Just describe what you see, any relevant colors or categories, etc.\nTODO: after you describe the plot, interpret it. What does it mean and how does it connect back to your question?\nTODO: before going to the next step, say why you are going to the next step, and how it connects back to your question or logically follows from the previous step."
+  },
+  {
+    "objectID": "final_project.html#conclusions",
+    "href": "final_project.html#conclusions",
+    "title": "FINAL PROJECT",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nTODO: repeat your main findings and why they matter\nTODO: state the answer to your question\nTODO: state any limitations or problems with the current results\nTODO: overall, state how your result informs or helps others"
+  },
+  {
+    "objectID": "final_project.html#reference",
+    "href": "final_project.html#reference",
+    "title": "FINAL PROJECT",
+    "section": "Reference",
+    "text": "Reference\n\nTODO: cite one scholarly article that relates to your topic/methods/results"
+  },
+  {
+    "objectID": "final_project.html#appendix-1",
+    "href": "final_project.html#appendix-1",
+    "title": "FINAL PROJECT",
+    "section": "Appendix 1",
+    "text": "Appendix 1\n\nThis section documents your technical knowledge that is not part of your research story\nTODO: describe the key features of your data, the type, the dimensions, and how you know the type and dimension\nTODO: document the pre written python libraries that were used.\nTODO: describe the key technical elements in your data visualizations, such as the type of plots, settings for the axes, symbol choices, color choices, legend usage, etc."
+  },
+  {
+    "objectID": "final_project.html#appendix-2",
+    "href": "final_project.html#appendix-2",
+    "title": "FINAL PROJECT",
+    "section": "Appendix 2",
+    "text": "Appendix 2\n\nTODO: explain logical filtering using an example from this course\nTODO: explain standard deviation using an example from this course"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: Click on the badge, then Copy to Drive before continuing\nTODO: delete this cell\n\n\n\n\nOpen In Colab\n\n\n\n\nThe CMPSC 105 Data Structures Final Presentations are May 1, at 7pm.\nIn this file, you will document your final project. Recall, that you have already created a proposal document and abstract which can be borrowed and brought into this document as needed.\nThe amount of work should be equivalent to 3-4 labs. Some extra time will be given to working on final projects during class in week 15.\n\n\n\nYour goals for this final project are:\n\ncreate a project report that documents your project and tells a story about data\nuse markdown and code cells to strategically place text and images for your story\nmake the story complete but also concise. This document will be what you present in a five-minute lightning talk during the final exam period\nshow at least three figures to tell your story.\n\nDon’t forget to answer all T O D O markers and to remove the markers.\n\n\n\n7:00pm, Thursday May 1, 2025\n\n\n\nBy completing this lab you will demonstrate your ability to\n\ndevelop a hypothesis and identity data to address the hypothesis\nuse python to compute summary statistics and visualize patterns\ndescribe key elements in your data visualizations\nuse a web-based platform to present your story, including visualizations, exploration steps, and conclusions\n\n\n\n\n\nIf you have a question, post in the 105 Discord channel.\nRefer to previous materials to learn how to use Notebooks in Google Colab, make your work accessible, submit, and check your work.\n\n\n\n\nSaving your work and making it accessible is a required part of all labs.\n\n\nUpdate the Colab filename to be final_project.ipynb.\nMake sure that only story-relevant cells are SHOWING their outputs.\nAdd your data to your repository in the data directory. Ensure the CSV filename containing your data is final_project_data.csv and located in the data directory.\n\n\n\nI would recommend a workflow of Copy to Drive --&gt; editing/running/testing --&gt; downloading. You should have already hit Copy to Drive, but if you haven’t, then please do so now. Then go ahead and download the file from the menu at the top of the Colab interface. File &gt; Download &gt; Download ipynb\n\n\n\nIf you are satisfied with your work, you can now upload the downloaded file to your GitHub repo!\n\nUse GitHub to upload the file.\n\nNext to the green code button in GitHub, you will see an add file button. Click that, then choose the downloaded notebook from your computer.\n\n\n\n\n\n\n\n\nOnce your file is uploaded, please open it on GitHub. All the outputs and plots should be showing. If they are not showing, this means that not all code cells were executed before you downloaded your file.\n\n\n\n\nPlease check how the website renders by going to the URL for your site. If something is rendering incorrectly, refer back with the starter repo and post questions on Discord.\n\n\n\n\nIn GitHub, go to the Actions tab. Click on the top Action to see a report about your T O D Os. If the T O D Os have been done and deleted, then the actions will show that gatorgrade reports 100%. This is not your grade, but it is a good indication that you did not forget to do something.\nIf you see remaining T O D Os, then you may want to edit and update your file.\n\n\n\n\n\nthe starter repo which contains the original instructions can be found here: https://github.com/allegheny-college-cmpsc-105-spring-2025/final-project-starter/blob/main/final_project_starter.ipynb\nthe starter repo website which also contains the original instructions can be found here: https://allegheny-college-cmpsc-105-generic.github.io/final-project-starter/\n\n\n\n\n\n\nTODO: double click and replace this text with your name\n\n\n\n\nTODO: paste abstract\n\n\n\n\n\nTODO: restate your hypothesis or question\nTODO: state any sub questions that the main question breaks into\n\n\n\n\n\n\n\nTODO: describe the data to address the hypothesis, and why it will help you answer your question\nTODO: describe how you got the data\n\n\n\n\n\nTODO: describe any preprocessing and wrangling done to the entire dataset. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\n\n\n\n\n\nTODO: describe major steps that you do to make sense of the data. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\nIdeally this will be a story with multiple steps, e.g. raw data inspection, then filtering, then averaging, then comparing\nOptional: Don’t forget about the possibility of doing correlation, linear regression, k-means clustering, or hypothesis testing\n\n\n\n\n\nTODO: Explain why doing the steps above will answer your question\n\n\n\n\n\n\nTODO: visualize as many of the previously-mentioned steps as possible. Label everything. Break up this markdown cell as needed with code cells that generate plots. Use python to generate plots\nTODO: state the mean and standard deviation in text for each major step that you take. Use python to compute those statistics\nTODO: for each plot, either right before or right after, describe the plot without interpretation. Just describe what you see, any relevant colors or categories, etc.\nTODO: after you describe the plot, interpret it. What does it mean and how does it connect back to your question?\nTODO: before going to the next step, say why you are going to the next step, and how it connects back to your question or logically follows from the previous step.\n\n\n\n\n\nTODO: repeat your main findings and why they matter\nTODO: state the answer to your question\nTODO: state any limitations or problems with the current results\nTODO: overall, state how your result informs or helps others\n\n\n\n\n\nTODO: cite one scholarly article that relates to your topic/methods/results\n\n\n\n\n\nThis section documents your technical knowledge that is not part of your research story\nTODO: describe the key features of your data, the type, the dimensions, and how you know the type and dimension\nTODO: document the pre written python libraries that were used.\nTODO: describe the key technical elements in your data visualizations, such as the type of plots, settings for the axes, symbol choices, color choices, legend usage, etc.\n\n\n\n\n\nTODO: explain logical filtering using an example from this course\nTODO: explain standard deviation using an example from this course\n\n\nSource: Final Project Instructions"
+  },
+  {
+    "objectID": "index.html#final-project-instructions",
+    "href": "index.html#final-project-instructions",
+    "title": "Final Project",
+    "section": "",
+    "text": "The CMPSC 105 Data Structures Final Presentations are May 1, at 7pm.\nIn this file, you will document your final project. Recall, that you have already created a proposal document and abstract which can be borrowed and brought into this document as needed.\nThe amount of work should be equivalent to 3-4 labs. Some extra time will be given to working on final projects during class in week 15."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Final Project",
+    "section": "",
+    "text": "Your goals for this final project are:\n\ncreate a project report that documents your project and tells a story about data\nuse markdown and code cells to strategically place text and images for your story\nmake the story complete but also concise. This document will be what you present in a five-minute lightning talk during the final exam period\nshow at least three figures to tell your story.\n\nDon’t forget to answer all T O D O markers and to remove the markers."
+  },
+  {
+    "objectID": "index.html#hard-deadline",
+    "href": "index.html#hard-deadline",
+    "title": "Final Project",
+    "section": "",
+    "text": "7:00pm, Thursday May 1, 2025"
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Final Project",
+    "section": "",
+    "text": "By completing this lab you will demonstrate your ability to\n\ndevelop a hypothesis and identity data to address the hypothesis\nuse python to compute summary statistics and visualize patterns\ndescribe key elements in your data visualizations\nuse a web-based platform to present your story, including visualizations, exploration steps, and conclusions"
+  },
+  {
+    "objectID": "index.html#reminders",
+    "href": "index.html#reminders",
+    "title": "Final Project",
+    "section": "",
+    "text": "If you have a question, post in the 105 Discord channel.\nRefer to previous materials to learn how to use Notebooks in Google Colab, make your work accessible, submit, and check your work."
+  },
+  {
+    "objectID": "index.html#saving-your-work",
+    "href": "index.html#saving-your-work",
+    "title": "Final Project",
+    "section": "",
+    "text": "Saving your work and making it accessible is a required part of all labs.\n\n\nUpdate the Colab filename to be final_project.ipynb.\nMake sure that only story-relevant cells are SHOWING their outputs.\nAdd your data to your repository in the data directory. Ensure the CSV filename containing your data is final_project_data.csv and located in the data directory.\n\n\n\nI would recommend a workflow of Copy to Drive --&gt; editing/running/testing --&gt; downloading. You should have already hit Copy to Drive, but if you haven’t, then please do so now. Then go ahead and download the file from the menu at the top of the Colab interface. File &gt; Download &gt; Download ipynb\n\n\n\nIf you are satisfied with your work, you can now upload the downloaded file to your GitHub repo!\n\nUse GitHub to upload the file.\n\nNext to the green code button in GitHub, you will see an add file button. Click that, then choose the downloaded notebook from your computer."
+  },
+  {
+    "objectID": "index.html#checking-your-work",
+    "href": "index.html#checking-your-work",
+    "title": "Final Project",
+    "section": "",
+    "text": "Once your file is uploaded, please open it on GitHub. All the outputs and plots should be showing. If they are not showing, this means that not all code cells were executed before you downloaded your file.\n\n\n\n\nPlease check how the website renders by going to the URL for your site. If something is rendering incorrectly, refer back with the starter repo and post questions on Discord.\n\n\n\n\nIn GitHub, go to the Actions tab. Click on the top Action to see a report about your T O D Os. If the T O D Os have been done and deleted, then the actions will show that gatorgrade reports 100%. This is not your grade, but it is a good indication that you did not forget to do something.\nIf you see remaining T O D Os, then you may want to edit and update your file.\n\n\n\n\n\nthe starter repo which contains the original instructions can be found here: https://github.com/allegheny-college-cmpsc-105-spring-2025/final-project-starter/blob/main/final_project_starter.ipynb\nthe starter repo website which also contains the original instructions can be found here: https://allegheny-college-cmpsc-105-generic.github.io/final-project-starter/"
+  },
+  {
+    "objectID": "index.html#todo-write-your-title",
+    "href": "index.html#todo-write-your-title",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: double click and replace this text with your name"
+  },
+  {
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: paste abstract"
+  },
+  {
+    "objectID": "index.html#hypothesis",
+    "href": "index.html#hypothesis",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: restate your hypothesis or question\nTODO: state any sub questions that the main question breaks into"
+  },
+  {
+    "objectID": "index.html#methods",
+    "href": "index.html#methods",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: describe the data to address the hypothesis, and why it will help you answer your question\nTODO: describe how you got the data\n\n\n\n\n\nTODO: describe any preprocessing and wrangling done to the entire dataset. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\n\n\n\n\n\nTODO: describe major steps that you do to make sense of the data. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\nIdeally this will be a story with multiple steps, e.g. raw data inspection, then filtering, then averaging, then comparing\nOptional: Don’t forget about the possibility of doing correlation, linear regression, k-means clustering, or hypothesis testing\n\n\n\n\n\nTODO: Explain why doing the steps above will answer your question"
+  },
+  {
+    "objectID": "index.html#results-and-discussion",
+    "href": "index.html#results-and-discussion",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: visualize as many of the previously-mentioned steps as possible. Label everything. Break up this markdown cell as needed with code cells that generate plots. Use python to generate plots\nTODO: state the mean and standard deviation in text for each major step that you take. Use python to compute those statistics\nTODO: for each plot, either right before or right after, describe the plot without interpretation. Just describe what you see, any relevant colors or categories, etc.\nTODO: after you describe the plot, interpret it. What does it mean and how does it connect back to your question?\nTODO: before going to the next step, say why you are going to the next step, and how it connects back to your question or logically follows from the previous step."
+  },
+  {
+    "objectID": "index.html#conclusions",
+    "href": "index.html#conclusions",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: repeat your main findings and why they matter\nTODO: state the answer to your question\nTODO: state any limitations or problems with the current results\nTODO: overall, state how your result informs or helps others"
+  },
+  {
+    "objectID": "index.html#reference",
+    "href": "index.html#reference",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: cite one scholarly article that relates to your topic/methods/results"
+  },
+  {
+    "objectID": "index.html#appendix-1",
+    "href": "index.html#appendix-1",
+    "title": "Final Project",
+    "section": "",
+    "text": "This section documents your technical knowledge that is not part of your research story\nTODO: describe the key features of your data, the type, the dimensions, and how you know the type and dimension\nTODO: document the pre written python libraries that were used.\nTODO: describe the key technical elements in your data visualizations, such as the type of plots, settings for the axes, symbol choices, color choices, legend usage, etc."
+  },
+  {
+    "objectID": "index.html#appendix-2",
+    "href": "index.html#appendix-2",
+    "title": "Final Project",
+    "section": "",
+    "text": "TODO: explain logical filtering using an example from this course\nTODO: explain standard deviation using an example from this course"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "If your data is not here\n\"check that the csv file has the correct name\"\n\"and that the csv file is in the data directory!\""
+  },
+  {
+    "objectID": "final_project_starter.html",
+    "href": "final_project_starter.html",
+    "title": "FINAL PROJECT",
+    "section": "",
+    "text": "TODO: Click on the badge, then Copy to Drive before continuing\nTODO: delete this cell"
+  },
+  {
+    "objectID": "final_project_starter.html#final-project-instructions",
+    "href": "final_project_starter.html#final-project-instructions",
+    "title": "FINAL PROJECT",
+    "section": "Final Project Instructions",
+    "text": "Final Project Instructions\nThe CMPSC 105 Data Structures Final Presentations are May 1, at 7pm.\nIn this file, you will document your final project. Recall, that you have already created a proposal document and abstract which can be borrowed and brought into this document as needed.\nThe amount of work should be equivalent to 3-4 labs. Some extra time will be given to working on final projects during class in week 15."
+  },
+  {
+    "objectID": "final_project_starter.html#goals",
+    "href": "final_project_starter.html#goals",
+    "title": "FINAL PROJECT",
+    "section": "Goals",
+    "text": "Goals\nYour goals for this final project are:\n\ncreate a project report that documents your project and tells a story about data\nuse markdown and code cells to strategically place text and images for your story\nmake the story complete but also concise. This document will be what you present in a five-minute lightning talk during the final exam period\nshow at least three figures to tell your story.\n\nDon’t forget to answer all T O D O markers and to remove the markers."
+  },
+  {
+    "objectID": "final_project_starter.html#hard-deadline",
+    "href": "final_project_starter.html#hard-deadline",
+    "title": "FINAL PROJECT",
+    "section": "Hard Deadline",
+    "text": "Hard Deadline\n7:00pm, Thursday May 1, 2025"
+  },
+  {
+    "objectID": "final_project_starter.html#learning-outcomes",
+    "href": "final_project_starter.html#learning-outcomes",
+    "title": "FINAL PROJECT",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy completing this lab you will demonstrate your ability to\n\ndevelop a hypothesis and identity data to address the hypothesis\nuse python to compute summary statistics and visualize patterns\ndescribe key elements in your data visualizations\nuse a web-based platform to present your story, including visualizations, exploration steps, and conclusions"
+  },
+  {
+    "objectID": "final_project_starter.html#reminders",
+    "href": "final_project_starter.html#reminders",
+    "title": "FINAL PROJECT",
+    "section": "Reminders",
+    "text": "Reminders\n\nIf you have a question, post in the 105 Discord channel.\nRefer to previous materials to learn how to use Notebooks in Google Colab, make your work accessible, submit, and check your work."
+  },
+  {
+    "objectID": "final_project_starter.html#saving-your-work",
+    "href": "final_project_starter.html#saving-your-work",
+    "title": "FINAL PROJECT",
+    "section": "Saving Your Work",
+    "text": "Saving Your Work\nSaving your work and making it accessible is a required part of all labs.\n\nAccessability Part 1\nUpdate the Colab filename to be final_project.ipynb.\nMake sure that only story-relevant cells are SHOWING their outputs.\nAdd your data to your repository in the data directory. Ensure the CSV filename containing your data is final_project_data.csv and located in the data directory.\n\n\nSaving\nI would recommend a workflow of Copy to Drive --&gt; editing/running/testing --&gt; downloading. You should have already hit Copy to Drive, but if you haven’t, then please do so now. Then go ahead and download the file from the menu at the top of the Colab interface. File &gt; Download &gt; Download ipynb\n\n\nAccessibility Part 2\nIf you are satisfied with your work, you can now upload the downloaded file to your GitHub repo!\n\nUse GitHub to upload the file.\n\nNext to the green code button in GitHub, you will see an add file button. Click that, then choose the downloaded notebook from your computer."
+  },
+  {
+    "objectID": "final_project_starter.html#checking-your-work",
+    "href": "final_project_starter.html#checking-your-work",
+    "title": "FINAL PROJECT",
+    "section": "Checking Your Work",
+    "text": "Checking Your Work\n\nCheck your file output\nOnce your file is uploaded, please open it on GitHub. All the outputs and plots should be showing. If they are not showing, this means that not all code cells were executed before you downloaded your file.\n\n\n\nCheck Your Website\nPlease check how the website renders by going to the URL for your site. If something is rendering incorrectly, refer back with the starter repo and post questions on Discord.\n\n\n\nCheck GitHub Actions\nIn GitHub, go to the Actions tab. Click on the top Action to see a report about your T O D Os. If the T O D Os have been done and deleted, then the actions will show that gatorgrade reports 100%. This is not your grade, but it is a good indication that you did not forget to do something.\nIf you see remaining T O D Os, then you may want to edit and update your file.\n\n\n\nTODO: DELETE THIS CELL ENTIRELY TO MAKE A CLEAN REPORT\n\nthe starter repo which contains the original instructions can be found here: https://github.com/allegheny-college-cmpsc-105-spring-2025/final-project-starter/blob/main/final_project_starter.ipynb\nthe starter repo website which also contains the original instructions can be found here: https://allegheny-college-cmpsc-105-generic.github.io/final-project-starter/"
+  },
+  {
+    "objectID": "final_project_starter.html#todo-write-your-title",
+    "href": "final_project_starter.html#todo-write-your-title",
+    "title": "FINAL PROJECT",
+    "section": "TODO: Write Your Title",
+    "text": "TODO: Write Your Title\nTODO: double click and replace this text with your name"
+  },
+  {
+    "objectID": "final_project_starter.html#abstract",
+    "href": "final_project_starter.html#abstract",
+    "title": "FINAL PROJECT",
+    "section": "Abstract",
+    "text": "Abstract\n\nTODO: paste abstract"
+  },
+  {
+    "objectID": "final_project_starter.html#hypothesis",
+    "href": "final_project_starter.html#hypothesis",
+    "title": "FINAL PROJECT",
+    "section": "Hypothesis",
+    "text": "Hypothesis\n\nTODO: restate your hypothesis or question\nTODO: state any sub questions that the main question breaks into"
+  },
+  {
+    "objectID": "final_project_starter.html#methods",
+    "href": "final_project_starter.html#methods",
+    "title": "FINAL PROJECT",
+    "section": "Methods",
+    "text": "Methods\n\nData\n\nTODO: describe the data to address the hypothesis, and why it will help you answer your question\nTODO: describe how you got the data\n\n\n\nPreprocessing Steps\n\nTODO: describe any preprocessing and wrangling done to the entire dataset. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\n\n\n\nProcessing Steps\n\nTODO: describe major steps that you do to make sense of the data. Be specific enough so that someone could replicate your work in a different programming language. This means that you should not dictate what functions to use, rather the concepts to use.\nIdeally this will be a story with multiple steps, e.g. raw data inspection, then filtering, then averaging, then comparing\nOptional: Don’t forget about the possibility of doing correlation, linear regression, k-means clustering, or hypothesis testing\n\n\n\nPurpose\n\nTODO: Explain why doing the steps above will answer your question"
+  },
+  {
+    "objectID": "final_project_starter.html#results-and-discussion",
+    "href": "final_project_starter.html#results-and-discussion",
+    "title": "FINAL PROJECT",
+    "section": "Results and Discussion",
+    "text": "Results and Discussion\n\nTODO: visualize as many of the previously-mentioned steps as possible. Label everything. Break up this markdown cell as needed with code cells that generate plots. Use python to generate plots\nTODO: state the mean and standard deviation in text for each major step that you take. Use python to compute those statistics\nTODO: for each plot, either right before or right after, describe the plot without interpretation. Just describe what you see, any relevant colors or categories, etc.\nTODO: after you describe the plot, interpret it. What does it mean and how does it connect back to your question?\nTODO: before going to the next step, say why you are going to the next step, and how it connects back to your question or logically follows from the previous step."
+  },
+  {
+    "objectID": "final_project_starter.html#conclusions",
+    "href": "final_project_starter.html#conclusions",
+    "title": "FINAL PROJECT",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nTODO: repeat your main findings and why they matter\nTODO: state the answer to your question\nTODO: state any limitations or problems with the current results\nTODO: overall, state how your result informs or helps others"
+  },
+  {
+    "objectID": "final_project_starter.html#reference",
+    "href": "final_project_starter.html#reference",
+    "title": "FINAL PROJECT",
+    "section": "Reference",
+    "text": "Reference\n\nTODO: cite one scholarly article that relates to your topic/methods/results"
+  },
+  {
+    "objectID": "final_project_starter.html#appendix-1",
+    "href": "final_project_starter.html#appendix-1",
+    "title": "FINAL PROJECT",
+    "section": "Appendix 1",
+    "text": "Appendix 1\n\nThis section documents your technical knowledge that is not part of your research story\nTODO: describe the key features of your data, the type, the dimensions, and how you know the type and dimension\nTODO: document the pre written python libraries that were used.\nTODO: describe the key technical elements in your data visualizations, such as the type of plots, settings for the axes, symbol choices, color choices, legend usage, etc."
+  },
+  {
+    "objectID": "final_project_starter.html#appendix-2",
+    "href": "final_project_starter.html#appendix-2",
+    "title": "FINAL PROJECT",
+    "section": "Appendix 2",
+    "text": "Appendix 2\n\nTODO: explain logical filtering using an example from this course\nTODO: explain standard deviation using an example from this course"
+  }
+]
