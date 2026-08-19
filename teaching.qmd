@@ -2,34 +2,31 @@
 title: "Teaching"
 ---
 
-## Instructor
+## Allegheny College
 
-### Fall 2023
+- **ECON 584:** Topics in Industrial Organization
+- **ECON 202:** Economic Statistics
+- **ECON 235:** Health Economics
+- **LS 121:** Advising@Allegheny II
+- **LS 120:** Advising@Allegheny I
+- **ECON 101:** Introduction to Macroeconomics
 
-- Intro to Macroeconomics, Department of Business and Economics, Allegheny College
+## Syracuse University
 
-### Fall 2022
+- **PAI 721:** Introduction to Statistics (Master's Level)
+- **PAI 722:** Quantitative Analysis (Master's Level)
 
-- Intro to Statistics (Master Level), Department of Public Administration and International Affairs, Maxwell School of Citizenship and Public Affairs, Syracuse University
+## Eastern Connecticut State University
 
-### Spring 2022
+- **ECON 200:** Principles of Macroeconomics
 
-- Quantitative Analysis (Master Level), Department of Public Administration and International Affairs, Maxwell School of Citizenship and Public Affairs, Syracuse University
+## University of Connecticut
 
-### Fall 2019
+- **ARE 326:** Food Policy (Teaching Assistant)
 
-- Macroeconomics, Department of Economics and Finance, Eastern Connecticut State University
+---
 
-## Teaching Assistant
+## Courses Developed
 
-### Fall 2020
-
-- Food Policy, Department of Agricultural and Resource Economics, College of Agriculture, Health and Natural Resources, University of Connecticut
-
-### Fall 2019
-
-- Food Policy, Department of Agricultural and Resource Economics, College of Agriculture, Health and Natural Resources, University of Connecticut
-
-### Fall 2018
-
-- Food Policy, Department of Agricultural and Resource Economics, College of Agriculture, Health and Natural Resources, University of Connecticut
+- **HCM 435:** Health Management, Allegheny College
+- **ECON 585:** Topics in Health and Education Economics, Allegheny College
